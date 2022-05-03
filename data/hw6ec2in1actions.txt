@@ -1,0 +1,11 @@
+WantToBefriend Alice Gina
+WantToBefriend Carol Jack
+WantToBefriend Frank Jack
+AddFriendship Harold Ian 3
+AddFriendship Gina Ian 5
+AddFriendship Alice Carol 1
+RemoveFriendship Frank Edward
+WantToBefriend Gina Alice
+WantToBefriend Ian Edward
+WantToBefriend Frank Ian
+WantToBefriend Alice David

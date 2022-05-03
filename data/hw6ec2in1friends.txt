@@ -1,0 +1,13 @@
+12
+Alice Bob 1
+Alice Carol 1
+Carol Gina 5
+Carol Frank 2
+Frank Edward 2
+Edward Harold 2
+Jack Gina 5
+Jack Harold 2
+Jack Ian 1
+David Karen 1
+Laura Alice 2
+Laura Gina 2

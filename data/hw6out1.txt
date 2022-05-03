@@ -1,0 +1,30 @@
+WantToBefriend Alice Gina
+- Length of the shortest path: 2
+- Your mutual friend is Carol.
+- Path: Alice Carol Gina
+WantToBefriend Carol Jack
+- Length of the shortest path: 2
+- Your mutual friend is Gina.
+- Path: Carol Gina Jack
+WantToBefriend Frank Jack
+- Length of the shortest path: 3
+- Your intermediate friend is Carol.
+- Path: Frank Carol Gina Jack
+AddFriendship Harold Ian
+AddFriendship Gina Ian
+AddFriendship Alice Carol ExistingFriendshipError
+RemoveFriendship Frank Edward
+WantToBefriend Gina Alice
+- Length of the shortest path: 2
+- Your mutual friend is Carol.
+- Path: Gina Carol Alice
+WantToBefriend Ian Edward
+- Length of the shortest path: 2
+- Your mutual friend is Harold.
+- Path: Ian Harold Edward
+WantToBefriend Frank Ian
+- Length of the shortest path: 3
+- Your intermediate friend is Carol.
+- Path: Frank Carol Gina Ian
+WantToBefriend Alice David
+- Sorry, none of your friends can help introduce you to David.
